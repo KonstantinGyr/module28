@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/hw28/delevery/cmake-build-debug/CMakeFiles/delevery.dir
+C:/Users/Kot/CLionProjects/hw28/delevery/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw28/delevery/cmake-build-debug/CMakeFiles/rebuild_cache.dir

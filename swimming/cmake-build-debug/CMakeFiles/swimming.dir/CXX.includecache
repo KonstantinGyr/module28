@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kot/CLionProjects/hw28/swimming/main.cpp
+iostream
+-
+thread
+-
+map
+-
+mutex
+-
+vector
+-
+
