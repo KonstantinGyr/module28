@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649856186 source:/home/liza/projects/restourantEdit/main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	<mutex>
+	<pthread.h>
+
